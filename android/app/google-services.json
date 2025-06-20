@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210380265561",
+    "firebase_url": "https://pig-authentication-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pig-authentication",
+    "storage_bucket": "pig-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210380265561:android:5317330376fcc0bc4ff948",
+        "android_client_info": {
+          "package_name": "com.tv803.tvappfierbaes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210380265561-7ce0g8cl4sqr2jclp2jp9a9c1490gj5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzGYXkq8cDcB-4CAkAVY5domp5Oo3lBFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210380265561-7ce0g8cl4sqr2jclp2jp9a9c1490gj5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
